@@ -69,6 +69,7 @@
 
 ## ✍️ Blog & Resume
 * 기술 블로그 : <https://techlog.dev>
+* IoT 블로그 : <https://thelightway.tistory.com>
 * 이력서 : 준비 중...
 
 ## 💬 Contact
