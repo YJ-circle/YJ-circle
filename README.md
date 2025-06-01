@@ -70,6 +70,8 @@
 - 타인이 작성한 PHP 코드를 분석·수정하여 커스터마이징한 경험.
 </details>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj-circle&layout=compact&theme=default&langs_count=8" />
+
 ## ✍️ Blog & Resume
 * 기술 블로그 : <https://techlog.dev>
 * IoT 블로그 : <https://thelightway.tistory.com>
