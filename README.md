@@ -3,6 +3,15 @@
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YJ-circle&show_icons=true&theme=default" width="30%" />
+  <a href="https://solved.ac/thelightway">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=thelightway" alt="Solved.ac 프로필" width="26%" />
+  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YJ-circle&theme=github-light" width="36%" />
+</p>
+
 ## 🔭 주요 프로젝트
 | Project | Stack | Role |
 |---------|-------|------|
@@ -60,12 +69,6 @@
 - 대학교 **50주년 행사 자료집**을 CMS 기반 웹페이지로 배포.  
 - 타인이 작성한 PHP 코드를 분석·수정하여 커스터마이징한 경험.
 </details>
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YJ-circle&show_icons=true&theme=default" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YJ-circle&theme=github-light" width="54%"/>
-</p>
 
 ## ✍️ Blog & Resume
 * 기술 블로그 : <https://techlog.dev>
